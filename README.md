@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aminvishesh
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning MCA
 - 📫 How to reach me 
 gmail:aminvishesh99@gmail.com
 instagram : @vishesh_amin
